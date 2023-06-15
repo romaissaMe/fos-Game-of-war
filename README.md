@@ -1,12 +1,12 @@
 # fos-Game-of-war
 Voici le nombre de chaque carte dans un jeu de cartes standard à 52 cartes, en ordre décroissant de puissance:  
-As (A) : 4 cartes     
-Roi (K) : 4 cartes   
-Dame (Q) : 4 cartes  
-Valet (J) : 4 cartes 
-10 : 4 cartes 
-9 : 4 cartes  
-8 : 4 cartes  
+As (A) : 4 cartes      
+Roi (K) : 4 cartes    
+Dame (Q) : 4 cartes    
+Valet (J) : 4 cartes   
+10 : 4 cartes  
+9 : 4 cartes   
+8 : 4 cartes   
 7 : 4 cartes  
 6 : 4 cartes  
 5 : 4 cartes  
